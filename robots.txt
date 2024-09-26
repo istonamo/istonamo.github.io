@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://istonamo.github.io/sitemap.istonamo.gz
+Sitemap: https://istonamo.github.io/app/sitemap.istonamo.gz
+Sitemap: https://istonamo.github.io/assets/sitemap.istonamo.gz
+Sitemap: https://istonamo.github.io/css/sitemap.istonamo.gz
+Sitemap: https://istonamo.github.io/data/sitemap.istonamo.gz
+Sitemap: https://istonamo.github.io/includes/sitemap.istonamo.gz
+Sitemap: https://istonamo.github.io/item/sitemap.istonamo.gz
+Sitemap: https://istonamo.github.io/src/sitemap.istonamo.gz
